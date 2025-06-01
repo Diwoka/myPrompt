@@ -1,1 +1,1 @@
-# obsidian_prompt
+# my_prompt
