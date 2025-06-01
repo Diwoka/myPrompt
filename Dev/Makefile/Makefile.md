@@ -1,3 +1,4 @@
+```make
 .DEFAULT_GOAL=help
 
 GROUPS=all
@@ -196,3 +197,4 @@ symfony console messenger:failed:show
 messenger\:failed-retry: ## Retry failed messages
 
 symfony console messenger:failed:retry
+```
