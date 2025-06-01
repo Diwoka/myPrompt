@@ -1,3 +1,4 @@
+# 🧪 Unit Testing with Prophecy – Best Practices
 ## 🔧 Mocking Setup
 
 - Use `ProphecyTrait` in all test classes  
