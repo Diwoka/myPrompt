@@ -3,8 +3,7 @@
 
 GROUPS=all
 
-LOCAL_DOMAIN ?= api-bi.hypecode.com
-
+LOCAL_DOMAIN ?= api-test
 EXEC_PHP = symfony php
 
   
@@ -19,7 +18,7 @@ help:
 
 @echo ""
 
-@echo " \033[1;34mAPI BI\033[0m"
+@echo " \033[1;34mAPI TEST\033[0m"
 
 @echo " \033[1;34m------------\033[0m"
 
