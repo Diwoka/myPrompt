@@ -1,13 +1,26 @@
-Peux-tu améliorer l’anglais et structurer le texte suivant sous forme d’un résumé de réunion clair et professionnel ? 
-Utilise les règles suivantes :
+# 📋 Meeting Summary Prompt Template
 
-1. Le titre doit être : **Meeting Summary – [date du jour]**
-2. Ne pas inclure de participants.
-3. Regroupe les idées par sujets avec un titre clair pour chaque thème, en gras.
-4. Chaque point doit être une puce claire, en anglais professionnel.
-5. Conserve les termes techniques (API, endpoint, URL, paymentMode, etc.).
-6. Utilise un langage direct, sans redondance, au présent ou futur selon le cas.
-7. Si une URL ou une donnée technique est présente, garde-la visible et lisible.
+Use this prompt to generate a clear, professional meeting summary in English, following a consistent format.
 
-Voici le texte à reformuler :
-[TEXTE À INSÉRER ICI]
+
+
+## 🔧 Prompt
+
+Can you improve the English and format the following content into a clean, professional meeting summary? Please follow these rules:
+
+Title should be: Meeting Summary – [today’s date]
+
+Do NOT include participants.
+
+Group ideas by topic with bold section titles.
+
+Use bullet points for each clear idea.
+
+Preserve technical terms (API, endpoint, paymentMode, etc.).
+
+Use professional, concise English – present or future tense where appropriate.
+
+Keep any URLs or technical data readable and visible.
+
+Here is the text to format:
+[INSERT RAW TEXT HERE]
